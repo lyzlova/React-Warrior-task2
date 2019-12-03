@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Warrior-task2/static/css/main.3453b0b6.chunk.css",
+    "main.js": "/React-Warrior-task2/static/js/main.31ac30b1.chunk.js",
+    "main.js.map": "/React-Warrior-task2/static/js/main.31ac30b1.chunk.js.map",
+    "runtime-main.js": "/React-Warrior-task2/static/js/runtime-main.93b3117a.js",
+    "runtime-main.js.map": "/React-Warrior-task2/static/js/runtime-main.93b3117a.js.map",
+    "static/css/2.83ace7dd.chunk.css": "/React-Warrior-task2/static/css/2.83ace7dd.chunk.css",
+    "static/js/2.2156865f.chunk.js": "/React-Warrior-task2/static/js/2.2156865f.chunk.js",
+    "static/js/2.2156865f.chunk.js.map": "/React-Warrior-task2/static/js/2.2156865f.chunk.js.map",
+    "index.html": "/React-Warrior-task2/index.html",
+    "precache-manifest.b059b420b8f8995e9444f17963016511.js": "/React-Warrior-task2/precache-manifest.b059b420b8f8995e9444f17963016511.js",
+    "service-worker.js": "/React-Warrior-task2/service-worker.js",
+    "static/css/2.83ace7dd.chunk.css.map": "/React-Warrior-task2/static/css/2.83ace7dd.chunk.css.map",
+    "static/css/main.3453b0b6.chunk.css.map": "/React-Warrior-task2/static/css/main.3453b0b6.chunk.css.map",
+    "static/media/default-img.png": "/React-Warrior-task2/static/media/default-img.f065b10c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b3117a.js",
+    "static/css/2.83ace7dd.chunk.css",
+    "static/js/2.2156865f.chunk.js",
+    "static/css/main.3453b0b6.chunk.css",
+    "static/js/main.31ac30b1.chunk.js"
+  ]
+}
