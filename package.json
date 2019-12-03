@@ -1,0 +1,40 @@
+{
+  "name": "react-warrior-task2",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://lyzlova.github.io/React-Warrior-task2/",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.1.1",
+    "universal-cookie": "^4.0.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "gh-pages": "^2.1.1"
+  }
+}
