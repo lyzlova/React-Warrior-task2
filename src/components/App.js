@@ -31,13 +31,6 @@ export default class App extends React.Component {
     });
   };
 
-  logout = () => {
-    this.setState({
-      user: null,
-      session_id: null,
-    });
-  };
-
   updateSessionId = session_id => {
     cookies.set('session_id', session_id, {
       path: '/',
